@@ -1,0 +1,22 @@
+.container{
+    margin: 60px auto;
+    width: 400px;
+    height: 620px;
+    border-radius: 10px;
+    background-color: silver;
+    border: solid 1px black;
+    text-align: center;
+    font-family: Arial;
+    color: black;
+}
+table{
+    margin: auto;
+    padding: 5px;
+}
+.jw{
+    background-color: white;
+    width: 170px;
+}
+select{
+    width: 170px;
+}
